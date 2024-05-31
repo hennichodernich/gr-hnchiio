@@ -1,0 +1,10 @@
+'[hnch IIO]':
+- 'hnchBoard2 Variants':
+  - hnchiio_hnchboard2_source
+  - hnchiio_hnchboard2u_source
+  - hnchiio_hnchbbboard_source
+- 'Generic':
+  - hnchiio_eightbit_source
+  - hnchiio_eightbit_sink
+  - hnchiio_thirtytwobit_source
+  - hnchiio_thirtytwobit_sink
